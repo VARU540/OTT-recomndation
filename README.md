@@ -64,7 +64,7 @@ pip install flask
 
 👤 **Varun Chaudhari**
 - Github: https://github.com/varun24-creator
-- Linkedin: https://www.linkedin.com/in/priya-garg-9220381b3
+- Linkedin: https://www.linkedin.com/in/varun-chaudhari-9220381b3
 - Email: varunchaudhari4002@gmail.com
 
 # Show Your Support 
