@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 def prepare_data(x):
         return str.lower(x.replace(" ", ""))
-
+ 
 def create_soup(x): 
     return x['Genre'] + ' ' + x['Tags'] + ' ' +x['Actors']+' '+ x['ViewerRating']
 
