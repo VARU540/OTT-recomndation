@@ -2,7 +2,7 @@
 <p><font size="3"> 
 A web-app which can be used to get recommendations for a series/movie, the app recommends a list of media according to list of entered choices of movies/series in your preferred language using <strong>Python</strong> and <strong>Flask</strong> for backend and <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong> for frontend.
 </p>
-
+ 
  # This web-app contains 3 main pages:
 - [Home Page](#home-page)
 - [Recommendation Page](#recommendation-page)
