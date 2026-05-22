@@ -5,7 +5,7 @@ A web-app which can be used to get recommendations for a series/movie, the app r
  
  # This web-app contains 3 main pages:
 - [Home Page](#home-page)
-- [Recommendation Page](#recommendation-page)
+- [Recommendation Page](#recommendation-page) 
 - [Movie Detail Page](#movie-detail-page)
 - [Netflix Page](#netflix-page)
 
