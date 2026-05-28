@@ -1,7 +1,7 @@
 import math 
 from flask import Flask, render_template, request 
 import pandas as pd 
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer 
 from sklearn.metrics.pairwise import cosine_similarity 
 
 def prepare_data(x):
