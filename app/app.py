@@ -68,7 +68,7 @@ def getvalue():
         for language in languages:
             df = pd.concat([result[result['Languages'].str.count(language) > 0], df], ignore_index=True)
     df.drop_duplicates(keep = 'first', inplace = True)
-    df.sort_values(by = 'IMDb Score', ascending = False, inplace = True)
+    df.sort_values(by = 'IMDb Score', ascending = False, inplace = True) 
     images = df['Image'].tolist()
     titles = df['Title'].tolist()
     return render_template('result.html',  titles =  titles, images = images)
